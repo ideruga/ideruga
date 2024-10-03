@@ -24,9 +24,9 @@ Throughout my career, I've had the opportunity to work with leading companies su
 - **Best Practices:** TDD, Clean Code, SOLID Principles
 
 ## 📈 GitHub Stats
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideruga&show_icons=true)
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideruga&show_icons=true&no-bg=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideruga&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideruga&layout=compact&no-bg=true)
 
 ## ⚙️ GitHub Actions
 #### AI Document Generator
@@ -36,7 +36,7 @@ Throughout my career, I've had the opportunity to work with leading companies su
 ![CI/CD](https://github.com/ideruga/proprietary-documentation-rag/actions/workflows/docker-image.yml/badge.svg)
 
 ## 🏆 Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=ideruga&theme=dracula)
+![Trophy](https://github-profile-trophy.vercel.app/?username=ideruga&no-bg=true)
 
 ## ⚡ Fun Fact
 I have a competitive spirit and thrive in team environments, always eager to tackle new challenges and contribute to innovative projects.
