@@ -24,9 +24,9 @@ Throughout my career, I've had the opportunity to work with leading companies su
 - **Best Practices:** TDD, Clean Code, SOLID Principles
 
 ## 📈 GitHub Stats
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideruga&show_icons=true&theme=dracula)
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideruga&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideruga&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideruga&layout=compact)
 
 ## ⚙️ GitHub Actions
 #### AI Document Generator
