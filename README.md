@@ -1,4 +1,4 @@
-# Hi there, I'm Igor Deruga :wave:
+# Hi there, I'm Igor!
 
 ## About Me
 I'm a seasoned software developer with a Master's degree in Mathematics and Informatics. With over fifteen years of experience, I specialize in web application programming, backend development, and system integration. I'm passionate about leveraging advanced technologies to solve complex problems and build scalable, efficient software solutions.
