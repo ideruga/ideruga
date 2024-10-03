@@ -29,7 +29,10 @@ Throughout my career, I've had the opportunity to work with leading companies su
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ideruga&layout=compact&theme=dracula)
 
 ## ⚙️ GitHub Actions
+#### AI Document Generator
 ![CI/CD](https://github.com/ideruga/ai-document-generator/actions/workflows/docker-image.yml/badge.svg)
+
+#### Proprietary Documentation RAG
 ![CI/CD](https://github.com/ideruga/proprietary-documentation-rag/actions/workflows/docker-image.yml/badge.svg)
 
 ## 🏆 Achievements
